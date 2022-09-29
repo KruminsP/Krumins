@@ -1,10 +1,10 @@
-### Hello, welcome to my GitHub
+## Hello, welcome to my GitHub
 
 My name is Peteris, I am a software developer mainly using C# and .NET.
 
 ---
 
-🧰 Toolbox
+### My tools :hammer:
 
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/> 
