@@ -16,3 +16,10 @@ My name is Peteris, I am a software developer mainly using C# and .NET.
 
 ---
 
+### My projects
+
+<a href="https://github.com/KruminsP/ScooterRental">Scooter rental</a>
+
+An application for assigning scooters to a company, renting them out, returning them, celculating rental fee, and making yearly overviews.
+Made using test driven development
+
