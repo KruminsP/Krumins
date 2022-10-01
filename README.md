@@ -25,3 +25,8 @@ My name is Peteris, I am a software developer mainly using C# and .NET.
 An application for assigning scooters to a company, renting them out, returning them, celculating rental fee, and making yearly overviews.
 Made using test driven development
 
+<a href="https://github.com/KruminsP/FlightPlanner">Flight planner</a>
+
+A Web API project for adding or deleting flights and airports, searching through them by keywords and displaying available ones.
+Currently working on connecting it with a database.
+
