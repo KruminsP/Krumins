@@ -14,7 +14,7 @@ My name is Peteris, I am a software developer mainly using C# and .NET.
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite Logo" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite Logo" width="50" height="50"/> 
 
 ---
 
