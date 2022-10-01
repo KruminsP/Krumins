@@ -2,6 +2,8 @@
 
 My name is Peteris, I am a software developer mainly using C# and .NET.
 
+<a href="https://www.linkedin.com/in/kruminsp/">LinkedIn profile</a>
+
 ---
 
 ### My tools :hammer:
