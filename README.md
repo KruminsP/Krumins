@@ -1,7 +1,7 @@
-## Hello, welcome to my GitHub
+## Hello, welcome to my GitHub!
 
 My name is Peteris, I am a software developer mainly using C# and .NET.
-That said I am passionate about coding and I am still learning new things every day
+That said I am passionate about coding and I am still learning new things every day.
 
 <a href="https://www.linkedin.com/in/kruminsp/">LinkedIn profile</a>
 
