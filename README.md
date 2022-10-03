@@ -9,13 +9,14 @@ That said I am passionate about coding and I am still learning new things every 
 
 ### My tools
 
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TS Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite Logo" width="50" height="50"/> 
+<picture><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# Logo" width="50" height="50" title="C#"/></picture>
+<picture><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".NET" alt=".NET Logo" width="50" height="50"/> </picture>
+<picture><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JS Logo" width="50" height="50"/> </picture>
+<picture><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" alt="TS Logo" width="50" height="50"/> </picture>
+<picture><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" height="50"/> </picture>
+<picture><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" height="50"/> </picture>
+<picture><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50" height="50"/> </picture>
+<picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" title="SQLite" alt="SQLite Logo" width="50" height="50"/> </picture>
 
 ---
 
