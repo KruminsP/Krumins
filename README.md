@@ -16,7 +16,7 @@ That said I am passionate about coding and I am still learning new things every 
 <picture><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="50" height="50"/> </picture>
 <picture><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="50" height="50"/> </picture>
 <picture><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50" height="50"/> </picture>
-<picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" title="SQLite" alt="SQLite Logo" width="50" height="50"/> </picture>
+<picture><img src="https://www.svgrepo.com/show/341068/sql.svg" title="SQLite" alt="SQL Logo" width="50" height="50"/> </picture>
 <picture><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" title="Visual Studio" alt="Visual Studio Logo" width="50" height="50"/> </picture>
 
 ---
