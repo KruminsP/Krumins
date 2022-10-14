@@ -31,5 +31,5 @@ Made using test driven development
 <a href="https://github.com/KruminsP/FlightPlanner">Flight planner</a>
 
 A Web API project for adding or deleting flights and airports, searching through them by keywords and displaying available ones.
-Currently working on connecting it with a database.
+It started with storage within the code, but moved to an SQLServer database.
 
