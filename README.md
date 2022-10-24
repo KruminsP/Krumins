@@ -3,8 +3,10 @@
 My name is Peteris, I am a software developer mainly using C# and .NET.
 That said I am passionate about coding and I am still learning new things every day.
 
-<a href="https://www.linkedin.com/in/kruminsp/">LinkedIn profile</a>
-
+<a href="https://www.linkedin.com/in/kruminsp/">
+         <img alt="My LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height="50">
+      </a>
+      
 ---
 
 ### My tools
