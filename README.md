@@ -26,7 +26,7 @@ That said I am passionate about coding and I am still learning new things every 
 <a href="https://github.com/KruminsP/ScooterRental">Scooter rental</a>
 
 An application for assigning scooters to a company, renting them out, returning them, celculating rental fee, and making yearly overviews.
-Made using test driven development
+Made using test driven development. Currently transforming it into WEB API project with a database.
 
 <a href="https://github.com/KruminsP/FlightPlanner">Flight planner</a>
 
