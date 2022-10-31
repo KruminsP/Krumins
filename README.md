@@ -35,3 +35,7 @@ Made using test driven development. Currently transforming it into WEB API proje
 A Web API project for adding or deleting flights and airports, searching through them by keywords and displaying available ones. Adding and deleting flights can only be done with authorization.
 It started with storage within the code, but moved to an SQLServer database.
 
+<a href="https://github.com/KruminsP/CashMachine">Cash machine</a>
+
+A simple class library that allows a client to make an account with balance, depositing and withdrawing funds.
+
