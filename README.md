@@ -35,6 +35,12 @@ Made using test driven development. Currently transforming it into WEB API proje
 A Web API project for adding or deleting flights and airports, searching through them by keywords and displaying available ones. Adding and deleting flights can only be done with authorization.
 It started with storage within the code, but moved to an SQLServer database.
 
+<a href="https://github.com/KruminsP/PersonRegistry">Person registry</a>
+
+Registry of people that adds new people to a database. Marital status can be changed and spouses can be added from existing people.
+Back-end made with C#, front-end with Angular, and it uses MS SQL database.
+Front-end repository @ https://github.com/KruminsP/PersonRegistryFront
+
 <a href="https://github.com/KruminsP/CashMachine">Cash machine</a>
 
 A simple class library that allows a client to make an account with balance, depositing and withdrawing funds.
