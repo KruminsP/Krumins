@@ -39,7 +39,7 @@ It started with storage within the code, but moved to an SQLServer database.
 
 Registry of people that adds new people to a database. Marital status can be changed and spouses can be added from existing people.
 Back-end made with C#, front-end with Angular, and it uses MS SQL database.
-Front-end repository @ https://github.com/KruminsP/PersonRegistryFront
+Front-end repository <a href="https://github.com/KruminsP/PersonRegistryFront">HERE</a>.
 
 <a href="https://github.com/KruminsP/CashMachine">Cash machine</a>
 
