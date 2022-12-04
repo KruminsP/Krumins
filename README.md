@@ -22,26 +22,3 @@ That said I am passionate about coding and I am still learning new things every 
 <picture><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" title="Visual Studio" alt="Visual Studio Logo" width="50" height="50"/> </picture>
 
 ---
-
-### Some of my projects
-
-<a href="https://github.com/KruminsP/ScooterRental">Scooter rental</a>
-
-An application for assigning scooters to a company, renting them out, returning them, celculating rental fee, and making yearly overviews.
-Made using test driven development. Currently transforming it into WEB API project with a database.
-
-<a href="https://github.com/KruminsP/FlightPlanner">Flight planner</a>
-
-A Web API project for adding or deleting flights and airports, searching through them by keywords and displaying available ones. Adding and deleting flights can only be done with authorization.
-It started with storage within the code, but moved to an SQLServer database.
-
-<a href="https://github.com/KruminsP/PersonRegistry">Person registry</a>
-
-Registry of people that adds new people to a database. Marital status can be changed and spouses can be added from existing people.
-Back-end made with C#, front-end with Angular, and it uses MS SQL database.
-Front-end repository <a href="https://github.com/KruminsP/PersonRegistryFront">HERE</a>.
-
-<a href="https://github.com/KruminsP/CashMachine">Cash machine</a>
-
-A simple class library that allows a client to make an account with balance, depositing and withdrawing funds.
-
