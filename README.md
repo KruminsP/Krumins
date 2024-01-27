@@ -1,6 +1,6 @@
 ## Hello, welcome to my GitHub!
 
-My name is Peteris, I am a software developer mainly using C# and .NET.
+My name is Peteris, I am a software developer.
 
 <a href="https://www.linkedin.com/in/kruminsp/">
          <img alt="My LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height="50">
